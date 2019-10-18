@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form Pendaftaran</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="email">Alamat Email</string>
+    <string name="number">Nomor Telephone</string>
+    <string name="pass">Kata Sandi</string>
+    <string name="btn_save">SIMPAN</string>
+    <string name="terms">Saya sudah membaca dan setuju ketentuan</string>
+</resources>

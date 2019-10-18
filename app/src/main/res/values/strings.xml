@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Register Form</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="number">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="btn_save">SAVE</string>
+    <string name="terms">I have read and agree the terms</string>
+</resources>
